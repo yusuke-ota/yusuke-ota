@@ -3,6 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuke-ota&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm interested in Rust language and VR/AR with C#(Unity) and C++(UE4).
+Most of my repository made for practice and lightning talk.
 
 <!--
 **yusuke-ota/yusuke-ota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
